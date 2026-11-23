@@ -124,7 +124,15 @@ FCM 憑證可放在該倉庫的 secrets（`FCM_PROJECT_ID`／`FCM_API_KEY`／`FC
 
 ## 抖內 / 特別感謝
 
-雖然你可以用加密貨幣抖內我，但我更希望你能直接支持（金錢、物質或心理上（？））這個專案的基礎建設們，幫助大家繼續運作！
+如果你想抖內我的話，這裡給你加密貨幣地址，暫時還沒辦法現金或信用卡付款：
+
+比特幣 Bitcoin: bc1qf5kxvy8wt6hq3kggm55cp4pw3a7hnpdzr2lswf
+
+以太幣 Ethereum: 0x7123507b1cb8963fb0176dcbc5305f84d1ea7319
+
+門羅幣 Monero: 88FAHjzCWDvgDz4eMvDJMBd45xmWNxohk5F4aqJt2TUvATi14FoASzB7T2jHd4ekrQUvJXq2psMRFcAqT3k5ZTE1MdK6iWP
+
+雖然你可以用加密貨幣抖內我，但我更希望你能直接支持（金錢、物質或心理上（？））這個專案的以下基礎建設們，幫助大家繼續運作！
 
 ### 軟硬體運作
 
@@ -134,5 +142,13 @@ FCM 憑證可放在該倉庫的 secrets（`FCM_PROJECT_ID`／`FCM_API_KEY`／`FC
 ## 好朋朋們
 
 - XJD：啟發和支持我開始這個專案的一位格友（[部落格連結](https://ordinarykuma.bearblog.dev/)）
+- 創崴：願意幫忙測試軟體的好朋朋
 
 ## 我的精神糧食（？
+
+就幾個喜歡的創作者。對，支持優質創作者也能幫忙專案運作，我就是不要臉 XD
+
+- 吾橋有水：[YT](https://www.youtube.com/channel/UCt-RcL1eeLqXC1UHDjDJCQQ) | [街聲 StreetVoice](https://streetvoice.com/FloodingBridge/)
+- 莊蕎嫣：[YT](https://www.youtube.com/channel/UCx0wtFhxZjLBaBAM0fooxfw) | [街聲 StreetVoice](https://streetvoice.com/rule1230/) | [抖內（歐付寶）](https://payment.opay.tw/Broadcaster/Donate/A3185B6772964C3EC1113C4EC8378553)
+- 林貓 Zeko Lin：[官網](https://zeko.studio/) | [街聲 StreetVoice](https://streetvoice.com/zeko/) | [Odysee](https://open.lbry.com/@zeko:b) | [部落格](https://wancat.cc/)
+- Maya Clars：[官網](https://mayaclars.com/) | [Odysee](https://odysee.com/@mayaclars:4) | [Bandcamp](https://mayaclars.bandcamp.com/) | [抖內](https://mayaclars.com/donations.html)
