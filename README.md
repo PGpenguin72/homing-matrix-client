@@ -139,12 +139,12 @@ FCM 憑證可放在該倉庫的 secrets（`FCM_PROJECT_ID`／`FCM_API_KEY`／`FC
 - [NCSE Network 社會公益計畫](https://ncse.tw/zh/csr/)提供 VPS 作為 Matrix 伺服器和 CI/CD runner
 ![logo - NCSE Network 字樣含尾翼](https://hackmd-prod-images.s3.ap-northeast-1.amazonaws.com/uploads/upload_95805ce6c5a96497491f21ab07f64b7d.png?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1795439802&Signature=FC9NfSqJF%2FMgaU7hZrijYMHdtj4%3D)
 
-## 好朋朋們
+### 好朋朋們
 
 - XJD：啟發和支持我開始這個專案的一位格友（[部落格連結](https://ordinarykuma.bearblog.dev/)）
 - 創崴：願意幫忙測試軟體的好朋朋
 
-## 我的精神糧食（？
+### 我的精神糧食（？
 
 就幾個喜歡的創作者。對，支持優質創作者也能幫忙專案運作，我就是不要臉 XD
 
