@@ -121,3 +121,10 @@ FCM 憑證可放在該倉庫的 secrets（`FCM_PROJECT_ID`／`FCM_API_KEY`／`FC
 > （`google_mlkit_text_recognition` 缺語言模組 class，開 R8 會建置失敗）。
 
 <!-- 上架條款、捐款連結等：待專業諮詢／待人工決定後補入 -->
+
+## 感謝幫助運作的基礎設施們
+
+### 軟硬體運作
+
+- [NCSE Network 社會公益計畫](https://ncse.tw/zh/csr/)
+![logo - NCSE Network 字樣含尾翼](https://hackmd-prod-images.s3.ap-northeast-1.amazonaws.com/uploads/upload_95805ce6c5a96497491f21ab07f64b7d.png?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1795439802&Signature=FC9NfSqJF%2FMgaU7hZrijYMHdtj4%3D)
