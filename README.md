@@ -143,6 +143,7 @@ FCM 憑證可放在該倉庫的 secrets（`FCM_PROJECT_ID`／`FCM_API_KEY`／`FC
 ### 好朋朋們
 
 - XJD：啟發和支持我開始這個專案的一位格友（[部落格連結](https://ordinarykuma.bearblog.dev/)）
+- 龍女 nudoragon：提供技術支援和一大堆好點子的格友（[所有連結](https://nudoragon.com/)）
 - 創崴：願意幫忙測試軟體的好朋朋
 
 ### 我的精神糧食（？
